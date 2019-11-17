@@ -1,10 +1,8 @@
 """
     httpcodes
     ~~~~~
-    Http codes is a minimal package the literally maps the status-message to a status-code.
+    Http codes is a minimal package that literally maps the status-message to a status-code.
     The only use-case of this package is to increase readability in your code.
-    :copyright: 2010 Pallets
-    :license: BSD-3-Clause
 """
 
 CONTINUE = 100

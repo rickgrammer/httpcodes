@@ -7,16 +7,12 @@ The only use-case of this package is to increase readability in your code.
 Installing
 ----------
 
-Install and update using `pip`_:
-
-.. code-block:: text
+Install and update using `pip`:
 
     pip install -U httpcodes
 
 A Simple Example
 ----------------
-
-.. code-block:: python
 
     import httpcodes
 

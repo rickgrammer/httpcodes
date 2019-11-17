@@ -11,7 +11,7 @@ setuptools.setup(
     description="A very minimal http-status-message to http-status-code package.",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/pypa/sampleproject",
+    url="https://github.com/rickgrammer/httpcodes.git",
     packages=setuptools.find_packages(),
     classifiers=[
         "Programming Language :: Python :: 2",
